@@ -8,5 +8,3 @@ I've used MySQL Database to solve these queries.
 
 Dataset Description:
 This dataset contains customer data, including demographic information, purchase history, and responses to marketing campaigns. The data can be used to analyse customer behaviour, segment customers, and evaluate the effectiveness of marketing strategies.
-
-Dataset Link: Kaggle
